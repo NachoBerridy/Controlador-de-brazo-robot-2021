@@ -1,0 +1,134 @@
+La conexion en este momento es: Conectado 
+EL estado del robot en este momento es: Encendido 
+
+Tiempo acumulado es: 231.49016737937927
+Instante de incio:  18:07:45 31/10/2021
+
+--------------------Detalles de las acciones realizadas hasta el momento-------------------- 
+
+>>>Accion ralizada: Conectar
+
+>>>Accion realizada:Encender
+
+>>>Accion realizada: Abrir efector
+      Tiempo: 0.5   Tiempo de inicio: Sun Oct 31 18:08:50 2021
+
+>>>Accion realizada: Cerrar efector
+      Tiempo: 0.5   Tiempo de inicio: Sun Oct 31 18:08:57 2021
+
+>>>Accion realizada: Girar Articulacion 1
+       Angulo:75.0   Velocidad:25.0   Tiempo:0.05235987755982989   Tiempo de inicio:Sun Oct 31 18:09:07 2021
+
+>>>Accion realizada: Girar Articulacion 2
+       Angulo:25.0   Velocidad:25.0   Tiempo:0.017453292519943295   Tiempo de inicio:Sun Oct 31 18:09:26 2021
+
+>>>Accion realizada: Girar Articulacion 3
+       Angulo:-40.0   Velocidad:25.0   Tiempo:-0.02792526803190927   Tiempo de inicio:Sun Oct 31 18:09:40 2021
+
+>>>Accion realizada:Mover
+       Coordenada x:15.0   Coordenada y:30.0   Velocidad lineal:16.0   Tiempo :2.8125   Tiempo de inicio:Sun Oct 31 18:10:09 2021
+
+>>>Accion realizada:Mover
+       Coordenada x:18.0   Coordenada y:50.0   Velocidad lineal:60.0   Tiempo :0.38333333333333336   Tiempo de inicio:Sun Oct 31 18:10:51 2021
+
+>>>Accion realizada: Retorno origen
+       Tiempo 1   Tiempo de inicio:Sun Oct 31 18:11:01 2021
+
+>>>Accion realizada: Inicio modo automatico
+
+>>>Accion realizada: Girar Articulacion 1
+       Angulo:75.0   Velocidad:25.0   Tiempo:0.05235987755982989   Tiempo de inicio:Sun Oct 31 18:11:16 2021
+
+>>>Accion realizada: Girar Articulacion 2
+       Angulo:25.0   Velocidad:25.0   Tiempo:0.017453292519943295   Tiempo de inicio:Sun Oct 31 18:11:16 2021
+
+>>>Accion realizada: Girar Articulacion 3
+       Angulo:-40.0   Velocidad:25.0   Tiempo:-0.02792526803190927   Tiempo de inicio:Sun Oct 31 18:11:16 2021
+
+>>>Accion realizada:Mover
+       Coordenada x:15.0   Coordenada y:30.0   Velocidad lineal:16.0   Tiempo :2.8125   Tiempo de inicio:Sun Oct 31 18:11:16 2021
+
+>>>Accion realizada:Mover
+       Coordenada x:18.0   Coordenada y:50.0   Velocidad lineal:60.0   Tiempo :0.38333333333333336   Tiempo de inicio:Sun Oct 31 18:11:18 2021
+
+>>>Accion realizada: Retorno origen
+       Tiempo 1   Tiempo de inicio:Sun Oct 31 18:11:19 2021
+
+>>>Accion realizada: Fin modo automatico
+
+La conexion en este momento es: Conectado 
+EL estado del robot en este momento es: Apagado 
+
+Tiempo acumulado es: 10.164917707443237
+Instante de incio:  21:18:42 31/10/2021
+
+--------------------Detalles de las acciones realizadas hasta el momento-------------------- 
+
+>>>Accion ralizada: Conectar
+
+>>>Accion ralizada: Desconectar
+
+>>>Accion ralizada: Conectar
+
+>>>Accion realizada:Encender
+
+>>>Accion realizada: Girar Articulacion 1
+       Angulo:45.0   Velocidad:12.0   Tiempo:0.06544984694978735   Tiempo de inicio:Sun Oct 31 21:14:49 2021
+
+>>>Accion realizada: Girar Articulacion 1
+       Angulo:45.0   Velocidad:12.0   Tiempo:0.06544984694978735   Tiempo de inicio:Sun Oct 31 21:14:56 2021
+
+>>>Accion realizada: Girar Articulacion 1
+       Angulo:45.0   Velocidad:12.0   Tiempo:0.06544984694978735   Tiempo de inicio:Sun Oct 31 21:15:00 2021
+
+>>>Accion realizada: Girar Articulacion 1
+       Angulo:44.0   Velocidad:12.0   Tiempo:0.06399540590645875   Tiempo de inicio:Sun Oct 31 21:15:13 2021
+
+>>>Accion realizada: Retorno origen
+       Tiempo 1   Tiempo de inicio:Sun Oct 31 21:15:22 2021
+
+>>>Accion realizada: Girar Articulacion 2
+       Angulo:44.0   Velocidad:12.0   Tiempo:0.06399540590645875   Tiempo de inicio:Sun Oct 31 21:16:00 2021
+
+>>>Accion realizada: Girar Articulacion 3
+       Angulo:-44.0   Velocidad:12.0   Tiempo:-0.06399540590645875   Tiempo de inicio:Sun Oct 31 21:16:08 2021
+
+>>>Accion realizada: Girar Articulacion 1
+       Angulo:-44.0   Velocidad:12.0   Tiempo:-0.06399540590645875   Tiempo de inicio:Sun Oct 31 21:16:14 2021
+
+>>>Accion realizada: Abrir efector
+      Tiempo: 0.5   Tiempo de inicio: Sun Oct 31 21:16:20 2021
+
+>>>Accion realizada:Mover
+       Coordenada x:12.0   Coordenada y:12.0   Velocidad lineal:12.0   Tiempo :2.0   Tiempo de inicio:Sun Oct 31 21:16:43 2021
+
+>>>Accion realizada: Retorno origen
+       Tiempo 1   Tiempo de inicio:Sun Oct 31 21:16:55 2021
+
+>>>Accion realizada: Inicio modo automatico
+
+>>>Accion realizada: Girar Articulacion 3
+       Angulo:-44.0   Velocidad:12.0   Tiempo:-0.06399540590645875   Tiempo de inicio:Sun Oct 31 21:17:06 2021
+
+>>>Accion realizada: Girar Articulacion 1
+       Angulo:-44.0   Velocidad:12.0   Tiempo:-0.06399540590645875   Tiempo de inicio:Sun Oct 31 21:17:06 2021
+
+>>>Accion realizada: Cerrar efector
+      Tiempo: 0.5   Tiempo de inicio: Sun Oct 31 21:17:06 2021
+
+>>>Accion realizada:Mover
+       Coordenada x:12.0   Coordenada y:12.0   Velocidad lineal:12.0   Tiempo :2.0   Tiempo de inicio:Sun Oct 31 21:17:07 2021
+
+>>>Accion realizada: Retorno origen
+       Tiempo 1   Tiempo de inicio:Sun Oct 31 21:17:09 2021
+
+>>>Accion realizada: Fin modo automatico
+
+>>>Accion realizada:Apagar
+
+>>>Accion realizada:Encender
+
+>>>Accion ralizada: Desconectar
+
+>>>Accion ralizada: Conectar
+

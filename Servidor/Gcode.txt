@@ -1,0 +1,16 @@
+Accionar efector: AE01
+Accionar efector: AE01
+Girar articulacion 1: GA01
+Girar articulacion 2: GA02
+Girar articulacion 1: GA01
+Mover efector: ME01
+Mover efector: ME01
+Girar articulacion 1: GA01
+Girar articulacion 1: GA01
+Girar articulacion 1: GA01
+Girar articulacion 1: GA01
+Girar articulacion 2: GA02
+Girar articulacion 1: GA01
+Girar articulacion 1: GA01
+Accionar efector: AE01
+Mover efector: ME01
