@@ -2,6 +2,12 @@
 
 Proyecto realizado para la clase de Programación orientada a objetos de la carrera Mecatrónica en la Facultad de Ingeniería de la Universidad Nacional de Cuyo 
 
+Integrantes del grupo
+
+Antonella Aldao https://github.com/AntoAldao
+Brenda Gudiño https://github.com/brendagudino12
+Ignacio Berridy https://github.com/NachoBerridy
+
 ## Se pide
 
 Desarrollar un aplicativo para controlar un robot de 3 grados de libertad con efector final.
