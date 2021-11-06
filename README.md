@@ -4,9 +4,9 @@ Proyecto realizado para la clase de Programación orientada a objetos de la carr
 
 Integrantes del grupo
 
-Antonella Aldao https://github.com/AntoAldao
-Brenda Gudiño https://github.com/brendagudino12
-Ignacio Berridy https://github.com/NachoBerridy
+* Antonella Aldao https://github.com/AntoAldao
+* Brenda Gudiño https://github.com/brendagudino12
+* Ignacio Berridy https://github.com/NachoBerridy
 
 ## Se pide
 
